@@ -6,8 +6,14 @@ pe~ ro~ pe~ ro~
 
 ## Installation
 
-### AUR
+### common
 ```
-yay -S prpr
+make
+cp prpr /usr/local/bin
+```
+
+### ArchLinux (Paru or Yay)
+```
+paru(yay) -S prpr 
 ```
 
